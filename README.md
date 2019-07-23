@@ -1,4 +1,4 @@
-# Intro-to-Machine-Learning
+# Machine-Learning-Introduction-Nanodegree
 ## Supervised Learning
 ## Deep Learning
 ## Unsupervised Learning
