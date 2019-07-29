@@ -12,6 +12,11 @@
        Naive Bayes
        Support Vector Machines
        Ensemble Methods
+   ### Evaluation Metrics
+       Regrssion - 
+       Classification - 
+   ### Model Optimization
+       
 
 ## Unsupervised Learning
 ## Reinforcement Learning
