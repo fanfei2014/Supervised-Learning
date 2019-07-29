@@ -7,7 +7,11 @@
        Regularization: a technique to assure that your models will not only fit to the data available, but also extend to new situations
    
    ### Classification
-   
+       Perceptron
+       Decision Trees
+       Naive Bayes
+       Support Vector Machines
+       Ensemble Methods
 
 ## Unsupervised Learning
 ## Reinforcement Learning
