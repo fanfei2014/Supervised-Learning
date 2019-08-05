@@ -16,7 +16,4 @@
        Regrssion - 
        Classification - 
    ### Model Optimization
-       
-
-## Unsupervised Learning
-## Reinforcement Learning
+       GridSearch - 
